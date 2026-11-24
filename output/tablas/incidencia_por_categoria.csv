@@ -1,0 +1,10 @@
+variable,categoria,casos,pct_plataforma
+rama_grp,"Comercio, alojamiento y gastronomía",1342,4.7
+rama_grp,Otras ramas,3128,0.4
+rama_grp,"Servicios profesionales, financieros e info.",1664,3.4
+rama_grp,Transporte,362,22.7
+categori_f,Asalariado,4677,2
+categori_f,Cuenta propia,1516,7.8
+categori_f,Patrón o trabajador familiar,306,2.9
+sexo_f,Mujer,3066,1.9
+sexo_f,Varón,3433,4.6

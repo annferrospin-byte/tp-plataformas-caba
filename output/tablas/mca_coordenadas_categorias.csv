@@ -1,0 +1,13 @@
+categoria,Dim 1,Dim 2,Dim 3
+"Comercio, alojamiento y gastronomía",0.99,-0.59,0.34
+"Servicios profesionales, financieros e info.",0.33,1.09,-0.38
+Transporte,-0.98,-0.39,0.04
+Asalariado,-0.45,0.54,0.22
+No asalariado,0.35,-0.41,-0.17
+36 a 45 hs,-0.21,0.5,0.55
+Hasta 35 hs,0.74,0.28,0.72
+Más de 45 hs,-0.42,-0.46,-0.79
+Hasta secundario incompleto,-1.17,-0.09,1.25
+Secundario completo,0.22,0.75,-0.47
+Superior completo,0.1,-0.08,-0.68
+Superior incompleto,0.49,-0.78,0.45

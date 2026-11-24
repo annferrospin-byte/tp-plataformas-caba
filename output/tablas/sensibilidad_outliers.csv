@@ -1,0 +1,7 @@
+version,plataforma,casos,media,p25,mediana,p75
+Con todos,No plataforma,4633,10129,4811,7698,11594
+Con todos,Plataforma,155,7476,3121,4949,8033
+Sin outliers (IQR en logs),No plataforma,4515,9513,4908,7698,11547
+Sin outliers (IQR en logs),Plataforma,150,7015,3233,5132,8033
+Winsorizado p1-p99,No plataforma,4633,9803,4811,7698,11594
+Winsorizado p1-p99,Plataforma,155,7136,3121,4949,8033

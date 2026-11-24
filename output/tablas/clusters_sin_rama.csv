@@ -1,0 +1,3 @@
+panel,concordancia_pct,por_azar_pct,rand_ajustado_vs_rama,tamanos_clusters
+Con la rama entre las variables,91,41,0.77,76 / 46 / 62
+Sin la rama entre las variables,49,41,0.06,41 / 46 / 97

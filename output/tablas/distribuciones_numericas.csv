@@ -1,0 +1,7 @@
+variable,plataforma,casos,media,p25,mediana,p75,minimo,maximo
+Edad,No plataforma,6304,43.7,33,43,53,13,88
+Edad,Plataforma,195,38.8,27,37,48,18,71
+Horas semanales,No plataforma,6125,39.5,30,40,46,1,138.3
+Horas semanales,Plataforma,193,43.5,30,42,56,8,98
+Ingreso horario,No plataforma,4633,10129.4,4811.4,7698.2,11593.5,34,207852.2
+Ingreso horario,Plataforma,155,7476,3120.9,4948.9,8032.9,354.1,90213.6

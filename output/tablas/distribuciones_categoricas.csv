@@ -1,0 +1,37 @@
+plataforma,categoria,personas,casos,pct,variable
+No plataforma,Mujer,735230,3020,48,Sexo
+No plataforma,Varón,795546,3284,52,Sexo
+Plataforma,Mujer,14140,46,26.7,Sexo
+Plataforma,Varón,38740,149,73.3,Sexo
+No plataforma,30 a 44,586441,2232,38.3,Edad (tramos)
+No plataforma,45 a 59,456249,1919,29.8,Edad (tramos)
+No plataforma,60 o más,225623,971,14.7,Edad (tramos)
+No plataforma,Hasta 29,262463,1182,17.1,Edad (tramos)
+Plataforma,30 a 44,21312,78,40.3,Edad (tramos)
+Plataforma,45 a 59,12553,45,23.7,Edad (tramos)
+Plataforma,60 o más,3843,14,7.3,Edad (tramos)
+Plataforma,Hasta 29,15172,58,28.7,Edad (tramos)
+No plataforma,Hasta primario completo,61867,360,4,Nivel educativo
+No plataforma,Secundario completo,275830,1249,18,Nivel educativo
+No plataforma,Secundario incompleto,116608,549,7.6,Nivel educativo
+No plataforma,Superior completo,730637,2723,47.7,Nivel educativo
+No plataforma,Superior incompleto,345804,1422,22.6,Nivel educativo
+Plataforma,Hasta primario completo,2834,10,5.4,Nivel educativo
+Plataforma,Secundario completo,14807,59,28,Nivel educativo
+Plataforma,Secundario incompleto,6715,26,12.7,Nivel educativo
+Plataforma,Superior completo,16236,56,30.7,Nivel educativo
+Plataforma,Superior incompleto,12288,44,23.2,Nivel educativo
+No plataforma,"Comercio, alojamiento y gastronomía",292349,1291,19.1,Rama de actividad
+No plataforma,Otras ramas,747338,3119,48.8,Rama de actividad
+No plataforma,"Servicios profesionales, financieros e info.",421926,1605,27.6,Rama de actividad
+No plataforma,Transporte,68512,286,4.5,Rama de actividad
+Plataforma,"Comercio, alojamiento y gastronomía",14563,51,27.5,Rama de actividad
+Plataforma,Otras ramas,3261,9,6.2,Rama de actividad
+Plataforma,"Servicios profesionales, financieros e info.",14909,59,28.2,Rama de actividad
+Plataforma,Transporte,20147,76,38.1,Rama de actividad
+No plataforma,Asalariado,1121177,4596,73.2,Categoría ocupacional
+No plataforma,Cuenta propia,326900,1409,21.4,Categoría ocupacional
+No plataforma,Patrón o trabajador familiar,82699,299,5.4,Categoría ocupacional
+Plataforma,Asalariado,22653,81,42.8,Categoría ocupacional
+Plataforma,Cuenta propia,27728,107,52.4,Categoría ocupacional
+Plataforma,Patrón o trabajador familiar,2499,7,4.7,Categoría ocupacional

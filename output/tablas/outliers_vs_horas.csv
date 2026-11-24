@@ -1,0 +1,5 @@
+tipo_outlier,horas_atipicas,n
+Alto,FALSE,35
+Alto,TRUE,5
+Bajo,FALSE,68
+Bajo,TRUE,15

@@ -1,0 +1,10 @@
+indicador,valor_calculado,valor_esperado,coincide
+Personas encuestadas (filas de la base de personas),12457,12457,TRUE
+Variables de la base de personas,237,237,TRUE
+Hogares encuestados (filas de la base de hogares),5516,5516,TRUE
+Población expandida: suma de fexp,3086714,3086714,TRUE
+Personas con tu3 = 1 (trabajan a través de plataformas),195,195,TRUE
+Personas con tu3 = 2,6304,6304,TRUE
+Personas con tu3 = 0 (no corresponde),5958,5958,TRUE
+Personas (totales de control del IDECBA),12457,12457,TRUE
+Población expandida (totales de control del IDECBA),3086714,3086714,TRUE

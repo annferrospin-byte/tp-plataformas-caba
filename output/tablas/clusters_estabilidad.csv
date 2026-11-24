@@ -1,0 +1,6 @@
+medida,valor
+Rand ajustado k-means vs PAM,0.947
+Personas que cambian de grupo (PAM),3
+"Rand ajustado, 20 semillas con un solo arranque: minimo",0.42
+... mediana,0.947
+... maximo,1

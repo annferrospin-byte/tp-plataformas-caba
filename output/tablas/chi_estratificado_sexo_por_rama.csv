@@ -1,0 +1,5 @@
+rama,casos,casos_plataforma,mujeres_con_plataforma,V_ponderado,p_ponderado,V_sin_ponderar,p_sin_ponderar,p_fisher,min_esperada
+"Comercio, alojamiento y gastronomía",1342,51,23,0.002,0.949,0.009,0.731,0.67,30.41
+Otras ramas,3128,9,8,0.053,0.00296,0.034,0.0569,0.0397,6.43
+"Servicios profesionales, financieros e info.",1664,59,13,0.075,0.00216,0.084,6.57e-4,4.29e-4,25.28
+Transporte,362,76,2,0.189,3.21e-4,0.182,5.51e-4,7.94e-5,11.92

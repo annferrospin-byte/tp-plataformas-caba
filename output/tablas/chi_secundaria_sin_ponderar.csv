@@ -1,0 +1,7 @@
+variable,ponderado,n,categorias,chi2,gl,p_valor,v_cramer,min_esperada,pct_celdas_bajas,p_simulado,lectura
+sexo_f,FALSE,749,2,3.82,1,0.050510404946263694,0.071,22.9,0,NA,Sin evidencia de asociación
+edad_grp,FALSE,749,4,8.63,3,0.03462213858453325,0.107,4.84,12.5,0.0332966703329667,Asociación
+nivel_grp,FALSE,749,5,20.19,4,4.5854433575115205e-4,0.164,1.18,30,0.0017998200179982,Asociación
+rama_grp,FALSE,735,4,31.29,3,7.371665385022422e-7,0.206,1.11,12.5,9.999000099990002e-5,Asociación
+categori_f,FALSE,749,3,0.87,2,0.6468056774543947,0.034,1.83,16.7,0.6675332466753324,Sin evidencia de asociación
+comuna_f,FALSE,749,15,6.96,14,0.9363504543060733,0.096,2.16,50,0.944005599440056,Sin evidencia de asociación

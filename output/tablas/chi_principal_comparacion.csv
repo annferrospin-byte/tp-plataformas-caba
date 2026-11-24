@@ -1,0 +1,8 @@
+variable,V_sin_ponderar,V_ponderado,p_sin_ponderar,p_ponderado,lectura_sin_ponderar,lectura_ponderado
+sexo_f,0.082,0.076,3.44e-11,1.02e-9,Asociación,Asociación
+edad_grp,0.062,0.064,1.59e-5,6.31e-6,Asociación,Asociación
+nivel_grp,0.061,0.07,7.27e-5,1.77e-6,Asociación,Asociación
+rama_grp,0.274,0.281,4.5599999999999995e-105,1.4299999999999997e-110,Asociación,Asociación
+categori_f,0.131,0.134,4.43e-25,3.04e-26,Asociación,Asociación
+comuna_f,0.059,0.086,0.0705,1.23e-5,Sin evidencia de asociación,Asociación
+ingreso_decl,0.023,0.032,0.0707,0.0107,Sin evidencia de asociación,Asociación

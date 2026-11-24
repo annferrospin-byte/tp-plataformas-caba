@@ -1,0 +1,18 @@
+variable,etiqueta,universo,valores_na
+id,Número de vivienda,Población total,0
+nhogar,Número de hogar,Población total,0
+miembro,Número de miembro,Población total,0
+comuna,Comuna,Total de hogares,0
+edad,Edad al momento de la entrevista,Población total,0
+sexo,Sexo del entrevistado,Población total,0
+estado,Condición de Actividad,Población total,0
+sem_hs,Cantidad de horas semanales trabajadas en todas las ocupaciones,Población ocupada que trabajó en la semana de referencia ((t1=1 or t2=1) and t8<>3),0
+categori,Categoría Ocupacional,Población ocupada (estado=1),0
+t37_coda_2,Rama de actividad (codificación agregada),Población ocupada (estado=1),0
+tu3,"¿Ese trabajo lo realiza u obtiene a través de una aplicación móvil (App) o plataforma web como Mercado libre, Zolvers, Airbnb, Pedidos ya, Rappi, Uber, etc.?","Población ocupada, exceptuando la que trabaja en servicio doméstico (estado=1 and t37_cod_2<>9700)",0
+codioph,Calidad de la declaración del ingreso por la ocupación principal percibido el mes pasado o por cobrar o que arregló que le paguen,Población ocupada (estado=1),0
+ioph_2,Monto del ingreso por la ocupación principal percibido el mes pasado o por cobrar o que arregló que le paguen. Incluye valores imputados,Población ocupada (estado=1),0
+tuso3,"¿Ese trabajo lo realiza u obtiene a través de una aplicación móvil (App) o plataforma web como Mercado libre, Zolvers, Airbnb, Pedidos ya, Rappi, Uber, etc.?
+(G-S)","Población ocupada con más de una ocupación, exceptuando la que trabaja en servicio doméstico en su ocupación secundaria ((t28>1 or t30_1>1) and cptso37_cod<>9700)",0
+nivel,Máximo nivel educativo,Población total,0
+fexp,Factor de expansión,Población total,0
